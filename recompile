@@ -1,5 +1,0 @@
-#!/bin/bash
-
-cp js/app.js ../../_build/mim1/rel/mongooseim/web/traffic/js/
-cp session.css ../../_build/mim1/rel/mongooseim/web/traffic/
-elm make src/Traffic.elm --output ../../_build/mim1/rel/mongooseim/web/traffic/js/traffic.js

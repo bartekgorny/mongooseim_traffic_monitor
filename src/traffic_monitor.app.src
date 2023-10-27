@@ -1,0 +1,14 @@
+{application, traffic_monitor,
+ [{description, "A dummy entry for rebar"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["GNU 3.0"]},
+  {links, []}
+ ]}.
